@@ -1,3 +1,7 @@
+---
+title: "MY PAGE "
+date: 2021-11-29
+---
 title: Página de Olena
 author: Olena Irizar
 email: your-email@domain.com
@@ -10,7 +14,3 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
----
-title: "MY PAGE "
-date: 2021-11-29
----
