@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Una vez más, Bienvenidos a mi blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+No se cuantos intentos van con este 
