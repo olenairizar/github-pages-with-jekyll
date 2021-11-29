@@ -1,6 +1,6 @@
 ---
-title: "El título de tu post"
-date: AAAA-MM-DD
+title: "MI PRIMER POST"
+date: 2021-11-29
 ---
 
 
